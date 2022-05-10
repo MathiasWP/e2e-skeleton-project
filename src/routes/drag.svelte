@@ -3,7 +3,6 @@
 </script>
 
 <script lang="ts">
-
     type TDraggableItem = {
         id: number
         name: string
